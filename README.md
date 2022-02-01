@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/Sdtps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdtps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdtps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="350" />
  </div>
 <div style="display: inline_block"><br>
