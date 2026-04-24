@@ -7,6 +7,8 @@ Engineer" alt="Typing SVG" />
  </a>
 </p>
 
+---
+
 <div align="left">
   <a href="https://github.com/Sdtps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdtps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -50,7 +52,7 @@ Padronização dos processos de gestão de identidade e acesso, reduzindo a expo
 Envolvimento direto em auditorias como PCI-DSS, ISO 27001/27002 e SOC 2.
  
 - Disponível para viagens e mudança de cidade.
-- 
+ 
 - Atualmente em busca de novos desafios e oportunidades de crescimento profissional.
 
 ---
